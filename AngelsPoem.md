@@ -34,7 +34,7 @@ Thank you, Gruber. I did not know that. But do you know about Poe
 # The Raven
 
 _Once upon a midnight dreary, while I pondered, weak and weary,\
-At my door was a one whose presence is quite dreary \
+At my door was a one whose presence was quite dreary \
 The Ice Man!\
 Dastardly foe of mine came knocking\
 Rap, rap, rapping\
@@ -44,6 +44,6 @@ I looked at my Ring cam video and yelped\
 Do not come my way and set your block of ice on my doorstep!\
 It's 2025. I have refrigerators that keep my spinach at most fresh.\
 Begone from here or I'll inform the gents\
-With flashing beacons on their cars and who will rent\
+With flashing beacons on their cars who will rent\
 You to pieces._\
 ...
