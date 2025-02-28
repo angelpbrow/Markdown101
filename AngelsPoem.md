@@ -5,7 +5,7 @@ We have Mr. Gruber to thank for placing a human face in front of our code. The M
 
 * **Markdown** is very simple to write.
 * **Markdown** is just darn lovely to look at.
-* **Markdown's** ability to be store and edited in git repos.
+* **Markdown's** ability to be stored and edited in git repos.
 
 Now, a word from the man himself:
 
@@ -38,7 +38,7 @@ At my door was a one whose presence was quite dreary \
 The Iceman!\
 The dastardly foe of mine came knocking\
 Rap, rap, rapping\
-On my highly surveillanced door\
+On my highly surveilled door\
 I looked at my Ring cam video and yelled\
 **NEVERMORE!**\
 Do not come my way and set your block of ice on my step!\
