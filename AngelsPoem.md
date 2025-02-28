@@ -14,7 +14,10 @@ Now, a word from the man himself:
 >
 > _**-- John Gruber's Twitter, 2016.**_
 
-Thank you, Gruber. I did not know that. But do you know about Poe[https://cdn.britannica.com/52/76652-050-F4A6B093/Edgar-Allan-Poe.jpg]?
+Thank you, Gruber. I did not know that. But do you know about Poe  
+![Poe](https://cdn.britannica.com/52/76652-050-F4A6B093/Edgar-Allan-Poe.jpg)
+
+?
 
 ### All poems
 
@@ -30,7 +33,7 @@ Thank you, Gruber. I did not know that. But do you know about Poe[https://cdn.br
 
 # The Raven
 
-_Once upon a midnight dreary, while I pondered, weak and weary,
+_Once upon a midnight dreary, while I pondered, weak and weary,\
 At my door was a one whose presence is quite dreary 
 The Ice Man!
 Dastardly foe of mine came knocking
@@ -43,6 +46,4 @@ It's 2025. I have refrigerators that keep my spinach at most fresh.
 Begone from here or I'll inform the gents 
 With flashing beacons on their cars and who will rent
 You to pieces._
-
-
 ...
